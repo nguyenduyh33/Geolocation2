@@ -49,11 +49,11 @@
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1515024921992,
-            "changeTime": 1515024921992,
+            "size": 224,
+            "modifiedTime": 1515025039167,
+            "changeTime": 1515025039167,
             "isWorkspace": false,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 206,
             "modifiedTime": 1515024967074,
             "changeTime": 1515024967074,
-            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1"
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 355,
-            "modifiedTime": 1515023735390,
-            "changeTime": 1515023735390,
-            "contentHash": "ad7913495e1bf0d67f0736011d14ca2344c3d159",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 563,
+            "modifiedTime": 1515025105248,
+            "changeTime": 1515025105248,
+            "contentHash": "38e2d48f295400eb626ce20168abd131673d80ea"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 257,
-            "modifiedTime": 1515024851968,
-            "changeTime": 1515024851968,
-            "contentHash": "e73058759883d04b007cf9974a348374dd300bc8",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 402,
+            "modifiedTime": 1515025114886,
+            "changeTime": 1515025114886,
+            "contentHash": "7d72ae96f4c47594e81e3f99e5a4d94b2702b1f3"
         }
     ],
     [
@@ -918,27 +918,27 @@
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountMap",
         {
-            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1515024922000,
             "changeTime": 1515024922000,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1515024921999,
             "changeTime": 1515024921999,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -948,62 +948,62 @@
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 249,
-            "modifiedTime": 1515024937272,
-            "changeTime": 1515024937272,
-            "contentHash": "d7a33ee52d54c20caf51c38c2beeb7ab9220c81a"
+            "size": 324,
+            "modifiedTime": 1515025140247,
+            "changeTime": 1515025140247,
+            "contentHash": "8614bfd5e6986d423c971ab3f127db922bf61c89"
         }
     ],
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1515024921993,
             "changeTime": 1515024921993,
-            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1515024952061,
             "changeTime": 1515024952061,
-            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
-            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1515024922000,
             "changeTime": 1515024922000,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1515024921998,
             "changeTime": 1515024921998,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1013,36 +1013,75 @@
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 401,
-            "modifiedTime": 1515024945051,
-            "changeTime": 1515024945051,
-            "contentHash": "d7d92dc4d8d11d3addfdfa2d18059402c8ad2277"
+            "size": 838,
+            "modifiedTime": 1515025152951,
+            "changeTime": 1515025152951,
+            "contentHash": "779874878e9cf8f1bc1853bb3bc42bfb3aa0cb42"
         }
     ],
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1515024921995,
             "changeTime": 1515024921995,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1515024921997,
             "changeTime": 1515024921997,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/duy/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1515025039168,
+            "changeTime": 1515025039168,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "/Users/duy/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1515025052790,
+            "changeTime": 1515025052790,
+            "contentHash": "93f2ea04427212bae4e58e2b292f915f6cdd03ad"
+        }
+    ],
+    [
+        "/Users/duy/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/duy/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1515025039168,
+            "changeTime": 1515025039168,
+            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
         }
     ]
 ]
